@@ -17,3 +17,7 @@ li a {
     padding: 1;
     color: white;
 }
+.square {
+    width: 50;
+    height: 10;
+}
