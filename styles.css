@@ -20,4 +20,5 @@ li a {
 .square {
     width: 50;
     height: 10;
+    padding: 10;
 }
