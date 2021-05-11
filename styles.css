@@ -14,7 +14,7 @@ li {
 li a {
     display: block;
     background-color: black;
-    padding: 10;
+    padding: 1;
     color: white;
 }
 .square {
