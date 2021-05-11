@@ -9,7 +9,7 @@ ul {
     padding: 1;
 }
 li {
-    float: center;
+    float: left;
 }
 li a {
     display: block;
