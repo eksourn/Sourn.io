@@ -1,5 +1,18 @@
 body {
     margin: 0;
     background: green;
+    opacity: 0.6;
     text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 1;
+    padding: 1;
+}
+li {
+    float: right;
+}
+li a {
+    display: inline;
+    background-color: grey;
 }
