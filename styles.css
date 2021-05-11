@@ -13,6 +13,7 @@ li {
     float: right;
 }
 li a {
-    display: inline;
+    display: block;
     background-color: grey;
+    padding: 10px;
 }
