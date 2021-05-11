@@ -1,16 +1,15 @@
 body {
     margin: 0;
-    background: green;
+    background: white;
     opacity: 0.6;
     text-align: center;
 }
 ul {
     list-style-type: none;
-    margin: 1;
     padding: 1;
 }
 li {
-    float: right;
+    float: center;
 }
 li a {
     display: block;
